@@ -1,0 +1,7 @@
+comfyui:
+    base_path: /runpod-volume
+    checkpoints: models/checkpoints/
+    clip: models/clip/
+    unet: models/unet/
+    vae: models/vae/
+    loras: models/loras/
